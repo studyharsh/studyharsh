@@ -26,6 +26,6 @@
   </p>
 
   <p style="margin-top: 20px;">
-    <img src="https://tenor.com/bVcit.gif" alt="One Piece GIF" />
+    <img src="https://raw.githubusercontent.com/studyharsh/studyharsh/main/batman.gif" alt="Batman" style="max-width:100%; height:auto;" />
   </p>
 </p>
