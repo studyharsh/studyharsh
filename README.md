@@ -5,10 +5,14 @@
   Indie Game Developer | Godot & Unity | UI/UX Focused Frontend Dev
 </h3>
 <div align="center" style="margin-bottom:20px;">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
-  height="25" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
-  height="25" alt="gmail logo" />
+  <a href="https://discordapp.com/users/harsh2406 target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
+    height="25" alt="discord logo" />
+  </a>
+  <a href="mailto:studyharsh007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+    height="25" alt="gmail logo" />
+  </a>
 </div>
 <h3 align="center">
   Languages & Tools
