@@ -1,6 +1,6 @@
 <p align="center">
   <h1>Hey 👋, I'm Harsh Kulkarni</h1>
-  <h3>Indie Game Developer | Godot & Unity | UI/UX Focused Frontend Dev</h3>
+  <h3>Indie Game Developer | Godot & Unity (Currently working on 3 games 😳) </h3>
 
   <p>
     <a href="https://discordapp.com/users/harsh2406" target="_blank" rel="noopener noreferrer">
